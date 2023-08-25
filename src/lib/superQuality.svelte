@@ -1,6 +1,7 @@
 <script>
 	import { shoe8 } from '../assets/images';
 	import  Button  from '../lib/button.svelte';
+	import {arrowRight} from '../assets/icons'
 </script>
 
 <section
@@ -21,7 +22,7 @@
 			Our dedication to detail and excellence ensures your satisfaction
 		</p>
 		<div class="mt-11">
-			<Button label="View details" />
+			<Button label="View details"/>
 		</div>
 	</div>
 
